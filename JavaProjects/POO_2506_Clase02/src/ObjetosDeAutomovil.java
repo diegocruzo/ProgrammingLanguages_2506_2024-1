@@ -19,9 +19,11 @@ public class ObjetosDeAutomovil {
         System.out.println("Cilindraje: " + carrito2.getCilindraje());
 
         Automovil carrito3 = new Automovil((short) 3000);
+        /*
         carrito3.setMarca("Ford");
         carrito3.setModelo("Mustang");
         carrito3.setColor("Amarillo");
+        */
         System.out.println("\nCaracterísticas de carrito3");
         System.out.println("Marca: " + carrito3.getMarca());
         System.out.println("Modelo: " + carrito3.getModelo());
