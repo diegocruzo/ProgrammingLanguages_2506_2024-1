@@ -88,5 +88,16 @@ public class TiposPrimitivos {
         var res = a + c;
         System.out.println("\nValor tipo var: " + a + ", " + c);
         System.out.println(res);
+
+        Automovil carrito1 = new Automovil("Ferrari", "Testarrosa", "rojo");
+        System.out.println("Marca carrito1: " + carrito1.getMarca());
+
+        Automovil carrito2 = new Automovil("Ford", "Mustang", "Azul");
+        System.out.println("Marca carrito2: " + carrito2.getMarca());
+
+        Automovil carrito3 = new Automovil();
+        carrito3.setMarca("Fiat");
+        System.out.println("Marca carrito3: " + carrito3.getMarca());
+
     }
 }

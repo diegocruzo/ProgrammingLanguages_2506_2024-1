@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "POO_2506_Clase02_HerenciaDeClasesEnArchivos",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "POO_2506_Clase02_HerenciaDeClasesEnArchivos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-POO_2506_Clase02_HerenciaDeClasesEnArchivos-Debug-59e52196b29b2998b977.json",
+					"name" : "POO_2506_Clase02_HerenciaDeClasesEnArchivos",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Fullstack/ProgrammingLanguages_2506_2024-1/C++Projects/POO_2506_Clase02_HerenciaDeClasesEnArchivos/cmake-build-debug",
+		"source" : "D:/Fullstack/ProgrammingLanguages_2506_2024-1/C++Projects/POO_2506_Clase02_HerenciaDeClasesEnArchivos"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

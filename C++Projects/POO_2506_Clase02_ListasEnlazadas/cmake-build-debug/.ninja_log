@@ -1,0 +1,6 @@
+# ninja log v5
+0	702	7325863027059541	CMakeFiles/POO_2506_Clase02_ListasEnlazadas.dir/main.cpp.obj	a5c38a32ed0a8044
+13	669	7325863768158070	CMakeFiles/POO_2506_Clase02_ListasEnlazadas.dir/Node.cpp.obj	46bcdd1c155fea27
+9	676	7325863768237872	CMakeFiles/POO_2506_Clase02_ListasEnlazadas.dir/LinkedList.cpp.obj	949f3914c5606382
+5	677	7325863768237872	CMakeFiles/POO_2506_Clase02_ListasEnlazadas.dir/main.cpp.obj	a5c38a32ed0a8044
+678	795	7325863769394757	POO_2506_Clase02_ListasEnlazadas.exe	7d13a89a80d9c283

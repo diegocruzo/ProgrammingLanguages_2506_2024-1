@@ -12,11 +12,14 @@ public class Automovil {
         this.color = color;
     }
     // Polimorfismo: El mismo método realiza acciones diferentes
-    public Automovil(String modelo, String color){
-        this.marca = "Ferrari";
-        this.modelo = modelo;
-        this.color = color;
+    public Automovil(){
     }
 
+    public static String getMarca() {
+        return marca;
+    }
 
+    public static void setMarca(String marca) {
+        Automovil.marca = marca;
+    }
 }

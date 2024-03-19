@@ -1,0 +1,7 @@
+# ninja log v5
+1	1005	7325870577793361	CMakeFiles/POO_2506_Clase03_HerenciaMultipleYPackage.dir/main.cpp.obj	581d264aa383871e
+7	1010	7325870577793361	CMakeFiles/POO_2506_Clase03_HerenciaMultipleYPackage.dir/ParentClasses/Animal.cpp.obj	7b045a009098ec0c
+22	1014	7325870577913046	CMakeFiles/POO_2506_Clase03_HerenciaMultipleYPackage.dir/ParentClasses/Mamifero.cpp.obj	88fe8bdff711b2d4
+17	1024	7325870578012776	CMakeFiles/POO_2506_Clase03_HerenciaMultipleYPackage.dir/Animals/Gato.cpp.obj	a8d3602c621e6c2b
+12	1043	7325870578222213	CMakeFiles/POO_2506_Clase03_HerenciaMultipleYPackage.dir/Animals/Perro.cpp.obj	267dee6b9a1e6983
+1044	1341	7325870581172274	POO_2506_Clase03_HerenciaMultipleYPackage.exe	d226b3665ccd58c4
